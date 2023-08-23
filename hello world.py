@@ -12,3 +12,5 @@ my_name = "Kauan"
 print(greeting)
 print(fav_num)
 print(my_name)
+
+print("look more stuff!")
